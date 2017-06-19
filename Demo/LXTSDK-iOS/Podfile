@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+
+target "LXTSDK-iOS" do
+
+pod 'AFNetworking', '~> 3.0.4'
+pod 'MJRefresh', '~> 2.2.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/lexuetong/iOS-API-SDK.git'
+
+pod 'lxt_iOS_SDK'
+
+
+
+end
