@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-    s.name         = 'LXTAPI-iOS'
-    s.version      = '1.48'
+    s.name         = 'LXTAPIiOS'
+    s.version      = '1.49'
     s.summary      = 'use API'
     s.homepage     = 'https://github.com/lexuetong/iOS-API-SDK.git'
     s.license      = 'MIT'
